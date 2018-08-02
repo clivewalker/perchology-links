@@ -8,8 +8,9 @@ _Note_: Please check the capabilities and requirements for each app/add-on befor
 
 ## Index
 
-- [Search Engine Optimisation](#seo)
-- [Image Optimisation](#image-optimisation)
+- Add-ons
+  - [Search Engine Optimisation](#seo)
+  - [Image Optimisation](#image-optimisation)
 
 ## SEO
 
