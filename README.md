@@ -4,6 +4,8 @@ This is a list of [Perch CMS](https://grabaperch) add-ons by third party develop
 
 This list includes add-ons, field types, templates filters, plugins etc.
 
+## Index
+
 - [Search Engine Optimisation](#SEO)
 
 ## SEO
