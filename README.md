@@ -50,5 +50,5 @@ Displays a list of links. Links are added by a user in the Perch Settings page.
 
 ### Lists
 
-- [Superlist](https://github.com/tobyjug/perch-superlist)  
+- [Superlist](https://github.com/tobyjug/perch-superlist)  
 Adds a field type to Perch CMS that makes it easy to edit and output unordered/ordered lists. 
