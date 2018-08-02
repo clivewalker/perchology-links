@@ -6,7 +6,7 @@ This list includes add-ons, field types, templates filters, plugins etc.
 
 ## Index
 
-- [Search Engine Optimisation](#SEO)
+- [Search Engine Optimisation](#seo)
 
 ## SEO
 
