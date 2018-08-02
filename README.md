@@ -11,3 +11,4 @@ This list includes add-ons, field types, templates filters, plugins etc.
 ## SEO
 
 ### [Chirp](https://grabachirp.com) 
+Chirp allows Perch content editors to analyse their content, and improve their on-site SEO.
