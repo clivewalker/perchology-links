@@ -16,13 +16,19 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Image Optimisation](#image-optimisation)
 	- [Members](#members)
 	- [Search Engine Optimisation](#search-engine-optimisation)
+	- [Sharing](#sharing)
+	- [Shop](#shop)
 	- [Translation](#translation)
 - Dashboard Widgets
+	- [Backup](#backup)
 	- [Links](#links)
+	- [SSL](#ssl)
 - Field Types
 	- [Colors](#colors)
 	- [Lists](#lists)
 	- [Tables](#tables)
+- Themes
+	- [Admin](#admin)
   
 ---
 ## Add-ons
@@ -54,6 +60,16 @@ Allow an administrator to view and edit all the tags that are currently used by 
 - [Chirp](https://grabachirp.com)  
 Chirp allows Perch content editors to analyse their content, and improve their on-site SEO.
 
+### Sharing
+
+- [Pipit Sharing](https://grabapipit.com/pipits/apps/sharing)  
+Quickly and easily add sharing links for popular social media sites.
+
+### Shop
+
+- [Pipit Catalog](https://grabapipit.com/pipits/apps/catalog)  
+Provides an alternative listing page for Shop Products with product thumbnails and easy filtering options. The listing also highlights sale and stock states.
+
 ### Translation
 
 - [Translation Helper](github.com/ameego/rp_translationhelper)  
@@ -63,10 +79,18 @@ An add-on for Perch to help with translating content in templates.
 
 ## Dashboard Widgets
 
+### Backup
+- [Runway Backup Status Dashboard Widget](github.com/ImpressionEngineering/Perch-Backup-Status-Dashboard-Widget)
+A dashboard widget that shows the status of latest backups.
+
 ### Links
 
 - [Perch Dashboard Links](https://github.com/clivewalker/Perch-Dashboard-Links-Widget)  
 Displays a list of links. Links are added by a user in the Perch Settings page.
+
+### SSL
+- [SSL Certificate Status](github.com/ImpressionEngineering/Perch-SSL-Dashboard-Widget)  
+A simple widget that shows the time remaining on SSL/TLS certificates.
 
 ---
 
@@ -79,6 +103,9 @@ Implements the Spectrum color picker.
 
 ### Lists
 
+- [Product List](https://grabapipit.com/pipits/field-types/product-list)  
+A field type for selecting products from the official Perch Shop app.
+
 - [Superlist](https://github.com/tobyjug/perch-superlist)  
 Adds a field type to Perch CMS that makes it easy to edit and output unordered/ordered lists. 
 
@@ -86,3 +113,12 @@ Adds a field type to Perch CMS that makes it easy to edit and output unordered/o
 
 - [Simon A Table](https://github.com/siansell/perch-cms-fieldtype-table)  
 Creates a configurable editable data table within the Perch admin and outputs an HTML `<table>` element
+
+---
+
+## Themes
+
+### Admin
+
+- [Perch UI Theme](https://github.com/seoMattH/perch-ui)  
+A dark "carbon" theme for Perch admin.
