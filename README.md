@@ -11,21 +11,31 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 ## Index
 
 - Add-ons
-	- [Search Engine Optimisation](#seo)
+	- [Analytics](#analytics)
+	- [Icons](#icons)
 	- [Image Optimisation](#image-optimisation)
 	- [Members](#members)
+	- [Search Engine Optimisation](#search-engine-optimisation)
+	- [Translation](#translation)
 - Dashboard Widgets
 	- [Links](#links)
 - Field Types
+	- [Colors](#colors)
 	- [Lists](#lists)
+	- [Tables](#tables)
   
 ---
 ## Add-ons
 
-### SEO
+### Analytics
 
-- [Chirp](https://grabachirp.com)  
-Chirp allows Perch content editors to analyse their content, and improve their on-site SEO.
+- [Go Squared Analytics](https://github.com/montlewis/PerchCMS-GoSquared)  
+Add GoSquared Analytics to Perch CMS admin.
+
+### Icons
+
+- [Font Awesome App](https://grabapipit.com/pipits/apps/font-awesome)  
+Add inline SVG icons from the popular Font Awesome icon library without any JavaScript.
 
 ### Image Optimisation
 
@@ -39,6 +49,18 @@ Display profiles of members
 - [Member Tags](https://github.com/PepperJack/Perch-member-tags)  
 Allow an administrator to view and edit all the tags that are currently used by the Perch Members app.
 
+### Search Engine Optimisation
+
+- [Chirp](https://grabachirp.com)  
+Chirp allows Perch content editors to analyse their content, and improve their on-site SEO.
+
+### Translation
+
+- [Translation Helper](github.com/ameego/rp_translationhelper)  
+An add-on for Perch to help with translating content in templates.
+
+---
+
 ## Dashboard Widgets
 
 ### Links
@@ -46,9 +68,21 @@ Allow an administrator to view and edit all the tags that are currently used by 
 - [Perch Dashboard Links](https://github.com/clivewalker/Perch-Dashboard-Links-Widget)  
 Displays a list of links. Links are added by a user in the Perch Settings page.
 
+---
+
 ## Field Types
+
+### Colors
+
+- [Kirk Spectrum Color Picker](https://github.com/ketterus/kirk_spectrum)  
+Implements the Spectrum color picker.
 
 ### Lists
 
 - [Superlist](https://github.com/tobyjug/perch-superlist)  
 Adds a field type to Perch CMS that makes it easy to edit and output unordered/ordered lists. 
+
+### Tables
+
+- [Simon A Table](https://github.com/siansell/perch-cms-fieldtype-table)  
+Creates a configurable editable data table within the Perch admin and outputs an HTML `<table>` element
