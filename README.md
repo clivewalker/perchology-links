@@ -30,6 +30,8 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Tables](#tables)
 - Plugins
   - [UI Scripts](#ui-scripts)
+- Template Filters
+	- [Images](#images)
 - Themes
 	- [Admin](#admin)
   
@@ -129,6 +131,14 @@ Creates a configurable editable data table within the Perch admin and outputs an
 
 - [Auto Collapsible Dividers](https://github.com/rlb222/Perch-Auto-collapsable-Dividers)  
 Normally field dividers in Perch templates are open and this script makes it possible to collapse them intially.
+---
+## Template Filters
+
+### Images
+
+- [Pipit Cloudinary](https://grabapipit.com/news/pipit-cloudinary/)  
+A template filter that enables you to easily upload images to Cloudinary and use their CDN and image processing functionality.
+
 ---
 
 ## Themes
