@@ -29,7 +29,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Lists](#lists)
 	- [Tables](#tables)
 - Plugins
-	- [UI scripts](ui-scripts) 
+  - [UI Scripts](#ui-scripts)
 - Themes
 	- [Admin](#admin)
   
