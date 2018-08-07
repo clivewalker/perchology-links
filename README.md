@@ -32,6 +32,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
   - [UI Scripts](#ui-scripts)
 - Template Filters
 	- [Images](#images)
+	- [Text](#text)
 - Themes
 	- [Admin](#admin)
   
@@ -113,6 +114,9 @@ Implements the Spectrum color picker.
 
 ### Lists
 
+- [Collection List](https://github.com/siansell/perch-fieldtype-collectionlist)  
+A fieldtype for Perch Runway to select an item from a collection.
+
 - [Product List](https://grabapipit.com/pipits/field-types/product-list)  
 A field type for selecting products from the official Perch Shop app.
 
@@ -138,6 +142,13 @@ Normally field dividers in Perch templates are open and this script makes it pos
 
 - [Pipit Cloudinary](https://grabapipit.com/news/pipit-cloudinary/)  
 A template filter that enables you to easily upload images to Cloudinary and use their CDN and image processing functionality.
+
+### Text
+
+- [Linebreak](https://grabapipit.com/pipits/template-filters/linebreak)  
+Inserts HTML line breaks `<br>` before new lines in a textarea field.
+- [Anchors](https://grabapipit.com/pipits/template-filters/anchors)  
+Adds IDs to HTML headings h1-h6 (based on their content) in a textarea field.
 
 ---
 
