@@ -1,6 +1,6 @@
 # Perchology Links
 
-This is a list of [Perch CMS](https://grabaperch) add-ons by third party developers (the [official apps are here](https://addons.perchcms.com)).
+This is a list of [Perch CMS](https://grabaperch.com) add-ons by third party developers (the [official apps are here](https://addons.perchcms.com)).
 
 This list includes add-ons, field types, template filters, plugins etc. Most of these links are published in the [Perchology Newsletter](https://perchology.curated.co) first. You may want to [sign up](https://perchology.curated.co) :-)
 
@@ -85,12 +85,12 @@ A simple Perch admin app to build support for shortcodes
 
 ### Site Search
 
-- [Perch Algolia Sync](github.com/JayGeorge/jaygeorge_perch_algolia_sync)  
+- [Perch Algolia Sync](https://github.com/JayGeorge/jaygeorge_perch_algolia_sync)  
 Uses the Algolia API to communicate with your Algolia account and update site search results.
 
 ### Translation
 
-- [Translation Helper](github.com/ameego/rp_translationhelper)  
+- [Translation Helper](https://github.com/ameego/rp_translationhelper)  
 An add-on for Perch to help with translating content in templates.
 
 ### Users
@@ -103,7 +103,7 @@ Tracks the activity of users with CMS access. For assisting clients or for audit
 ## Dashboard Widgets
 
 ### Backup
-- [Runway Backup Status Dashboard Widget](github.com/ImpressionEngineering/Perch-Backup-Status-Dashboard-Widget)
+- [Runway Backup Status Dashboard Widget](https://github.com/ImpressionEngineering/Perch-Backup-Status-Dashboard-Widget)
 A dashboard widget that shows the status of latest backups.
 
 ### Links
@@ -112,7 +112,7 @@ A dashboard widget that shows the status of latest backups.
 Displays a list of links. Links are added by a user in the Perch Settings page.
 
 ### SSL
-- [SSL Certificate Status](github.com/ImpressionEngineering/Perch-SSL-Dashboard-Widget)  
+- [SSL Certificate Status](https://github.com/ImpressionEngineering/Perch-SSL-Dashboard-Widget)  
 A simple widget that shows the time remaining on SSL/TLS certificates.
 
 ---
@@ -168,7 +168,7 @@ Adds IDs to HTML headings h1-h6 (based on their content) in a textarea field.
 
 ### Admin
 
-- [Perch Admin Style](github.com/JayGeorge/jaygeorge_perch_admin_style)  
+- [Perch Admin Style](https://github.com/JayGeorge/jaygeorge_perch_admin_style)  
 This app allows you to style the admin interface for different clients with some base styling defaults.
 - [Perch Admin Theme](https://github.com/ex-jedi/perch-admin-theme)  
 Adds a little more contrast and visual hierarchy to the Perch UI.
