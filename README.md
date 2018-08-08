@@ -18,8 +18,10 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Search Engine Optimisation](#search-engine-optimisation)
 	- [Sharing](#sharing)
 	- [Shop](#shop)
+	- [Shortcodes](#shortcodes)
 	- [Site Search](#site-search)
 	- [Translation](#translation)
+	- [Users](#users)
 - Dashboard Widgets
 	- [Backup](#backup)
 	- [Links](#links)
@@ -76,6 +78,11 @@ Quickly and easily add sharing links for popular social media sites.
 - [Pipit Catalog](https://grabapipit.com/pipits/apps/catalog)  
 Provides an alternative listing page for Shop Products with product thumbnails and easy filtering options. The listing also highlights sale and stock states.
 
+### Shortcodes
+
+- [Pixelfix Shortcodes](https://github.com/scottgruber/pixelfix_shortcodes)  
+A simple Perch admin app to build support for shortcodes
+
 ### Site Search
 
 - [Perch Algolia Sync](github.com/JayGeorge/jaygeorge_perch_algolia_sync)  
@@ -85,6 +92,11 @@ Uses the Algolia API to communicate with your Algolia account and update site se
 
 - [Translation Helper](github.com/ameego/rp_translationhelper)  
 An add-on for Perch to help with translating content in templates.
+
+### Users
+
+- [Event Logger](https://github.com/RedFinch/Perch-Event-Log)  
+Tracks the activity of users with CMS access. For assisting clients or for auditing your content editors.
 
 ---
 
