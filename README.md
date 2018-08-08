@@ -48,7 +48,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 - [Go Squared Analytics](https://github.com/montlewis/PerchCMS-GoSquared)  
 Add GoSquared Analytics to Perch CMS admin.
 
-### Forums
+### Forum
 
 - [YB Forum](http://yellowbeetle.co.uk/ybforum/)  
 A forum add-on.
