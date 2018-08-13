@@ -30,6 +30,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [SSL](#ssl)
 - Field Types
 	- [Colors](#colors)
+	- [Inputs](#inputs)
 	- [Lists](#lists)
 	- [Tables](#tables)
 - Plugins
@@ -93,7 +94,7 @@ Provides an alternative listing page for Shop Products with product thumbnails a
 ### Shortcodes
 
 - [Pixelfix Shortcodes](https://github.com/scottgruber/pixelfix_shortcodes)  
-A simple Perch admin app to build support for shortcodes
+A simple Perch admin app to build support for shortcodes.
 
 ### Site Search
 
@@ -115,7 +116,7 @@ Tracks the activity of users with CMS access. For assisting clients or for audit
 ## Dashboard Widgets
 
 ### Backup
-- [Runway Backup Status Dashboard Widget](https://github.com/ImpressionEngineering/Perch-Backup-Status-Dashboard-Widget)
+- [Runway Backup Status Dashboard Widget](https://github.com/ImpressionEngineering/Perch-Backup-Status-Dashboard-Widget)  
 A dashboard widget that shows the status of latest backups.
 
 ### Links
@@ -135,6 +136,10 @@ A simple widget that shows the time remaining on SSL/TLS certificates.
 
 - [Kirk Spectrum Color Picker](https://github.com/ketterus/kirk_spectrum)  
 Implements the Spectrum color picker.
+
+### Inputs
+
+- [Range Slider](https://github.com/AWildDevAppears/perch-cms-addon-range-slider)
 
 ### Lists
 
