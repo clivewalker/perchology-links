@@ -30,6 +30,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [SSL](#ssl)
 - Field Types
 	- [Colors](#colors)
+	- [Date and Time](#date-and-time)
 	- [Inputs](#inputs)
 	- [Lists](#lists)
 	- [Tables](#tables)
