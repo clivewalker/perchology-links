@@ -137,6 +137,11 @@ A simple widget that shows the time remaining on SSL/TLS certificates.
 - [Kirk Spectrum Color Picker](https://github.com/ketterus/kirk_spectrum)  
 Implements the Spectrum color picker.
 
+### Date and Time
+
+- [Timestamp](https://github.com/montlewis/perch-cms-fieldtype-timestamp)  
+A simple timestamp field type.
+
 ### Inputs
 
 - [Range Slider](https://github.com/AWildDevAppears/perch-cms-addon-range-slider)
