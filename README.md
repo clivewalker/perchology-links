@@ -186,10 +186,12 @@ A template filter that enables you to easily upload images to Cloudinary and use
 
 ### Text
 
-- [Linebreak](https://grabapipit.com/pipits/template-filters/linebreak)  
-Inserts HTML line breaks `<br>` before new lines in a textarea field.
 - [Anchors](https://grabapipit.com/pipits/template-filters/anchors)  
 Adds IDs to HTML headings h1-h6 (based on their content) in a textarea field.
+- [External Links](https://github.com/Pipits/externallinks-filter)  
+Add `target` and `rel` attributes to external links inside `textarea` field types.
+- [Linebreak](https://grabapipit.com/pipits/template-filters/linebreak)  
+Inserts HTML line breaks `<br>` before new lines in a textarea field.
 
 ---
 
