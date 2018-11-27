@@ -28,6 +28,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 - Dashboard Widgets
 	- [Backup](#backup)
 	- [Links](#links)
+	- [Shortcuts](#shortcuts)
 	- [SSL](#ssl)
 - Field Types
 	- [Colors](#colors)
@@ -130,6 +131,11 @@ A dashboard widget that shows the status of latest backups.
 
 - [Perch Dashboard Links](https://github.com/clivewalker/Perch-Dashboard-Links-Widget)  
 Displays a list of links. Links are added by a user in the Perch Settings page.
+
+### Shortcuts
+
+- [Pipits Shortcuts](https://grabapipit.com/news/pipit-shortcuts)  
+Choose menu sections, managed in Perch Runway's Menu Manager, to be listed in the widget.
 
 ### SSL
 - [SSL Certificate Status](https://github.com/ImpressionEngineering/Perch-SSL-Dashboard-Widget)  
