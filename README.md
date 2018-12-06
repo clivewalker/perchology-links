@@ -37,7 +37,8 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Lists](#lists)
 	- [Tables](#tables)
 - Plugins
-  - [UI Scripts](#ui-scripts)
+	- [Editors](#editors)
+	- [UI Scripts](#ui-scripts)
 - Template Filters
 	- [Images](#images)
 	- [Text](#text)
@@ -177,6 +178,11 @@ Creates a configurable editable data table within the Perch admin and outputs an
 
 ---
 ## Plugins
+
+### Editors
+
+- [Redactor: Inline Perch Assets](https://grabapipit.com/pipits/other/redactor-inline-perch-assets)  
+Enables users to upload/select assets from the Perch Assets system. Images are displayed inline in the text box of the Redactor Editor.
 
 ### UI Scripts
 
