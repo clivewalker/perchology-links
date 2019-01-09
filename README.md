@@ -88,7 +88,7 @@ Allow an administrator to view and edit all the tags that are currently used by 
 
 ### Redirects
 
-- [Perch Redirects](https://github.com/RootStudio/Perch-Locator)  
+- [Perch Redirects](https://github.com/themorrisonagency/perch-redirects-app)  
 An app to manage 301/302 redirects from within Perch Admin. Currently only works with Perch Runway.
 
 ### Search Engine Optimisation
