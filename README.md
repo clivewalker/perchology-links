@@ -18,7 +18,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Instagram](#instagram)
 	- [Locations](#locations)
 	- [Members](#members)
-	- [Redirects](#redirect)
+	- [Redirects](#redirects)
 	- [Search Engine Optimisation](#search-engine-optimisation)
 	- [Sharing](#sharing)
 	- [Shop](#shop)
