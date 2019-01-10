@@ -18,6 +18,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Instagram](#instagram)
 	- [Locations](#locations)
 	- [Members](#members)
+	- [Redirects](#redirects)
 	- [Search Engine Optimisation](#search-engine-optimisation)
 	- [Sharing](#sharing)
 	- [Shop](#shop)
@@ -84,6 +85,11 @@ An app to manage addresses and locations.
 Display profiles of members.
 - [Member Tags](https://github.com/PepperJack/Perch-member-tags)  
 Allow an administrator to view and edit all the tags that are currently used by the Perch Members app.
+
+### Redirects
+
+- [Perch Redirects](https://github.com/themorrisonagency/perch-redirects-app)  
+An app to manage 301/302 redirects from within Perch Admin. Currently only works with Perch Runway.
 
 ### Search Engine Optimisation
 
