@@ -217,6 +217,9 @@ A Perch UI plugin that adds a "View Response" button for each response on the Pe
 
 ### Images
 
+- [Pipit Imgix](https://grabapipit.com/news/imgix-template-filter)  
+Pipit Imgix is a Perch template filter that generates Imgix URLs for your images. Imgix is a service that lets you process, manipulate and optimise images on the fly and then serve the images via a fast CDN.
+
 - [Pipit Cloudinary](https://grabapipit.com/news/pipit-cloudinary/)  
 A template filter that enables you to easily upload images to Cloudinary and use their CDN and image processing functionality.
 
