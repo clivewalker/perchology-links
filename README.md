@@ -39,6 +39,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Inputs](#inputs)
 	- [Lists](#lists)
 	- [Tables](#tables)
+	- [Tags](#tags)
 - Plugins
 	- [Editors](#editors)
 	- [UI Scripts](#ui-scripts)
@@ -185,12 +186,15 @@ A simple timestamp field type.
 
 - [Collection List](https://github.com/siansell/perch-fieldtype-collectionlist)  
 A fieldtype for Perch Runway to select an item from a collection.
-
 - [Product List](https://grabapipit.com/pipits/field-types/product-list)  
 A field type for selecting products from the official Perch Shop app.
-
 - [Superlist](https://github.com/tobyjug/perch-superlist)  
 Adds a field type to Perch CMS that makes it easy to edit and output unordered/ordered lists. 
+
+### Tags
+
+- [Tags](https://github.com/Pipits/tags-fieldtype)  
+A field type for adding comma-separated tags. Gives visual feedback to the editor, prevents editors entering the same tag more than once and allows blacklist words.
 
 ### Tables
 
@@ -209,7 +213,6 @@ Enables users to upload/select assets from the Perch Assets system. Images are d
 
 - [Auto Collapsible Dividers](https://github.com/rlb222/Perch-Auto-collapsable-Dividers)  
 Normally field dividers in Perch templates are open and this script makes it possible to collapse them intially.
-
 - [Perch Forms response view button](https://github.com/Pipits/perch-forms-response-view-button)  
 A Perch UI plugin that adds a "View Response" button for each response on the Perch Forms "Listing Responses" page.
 ---
@@ -219,7 +222,6 @@ A Perch UI plugin that adds a "View Response" button for each response on the Pe
 
 - [Pipit Imgix](https://grabapipit.com/news/imgix-template-filter)  
 Pipit Imgix is a Perch template filter that generates Imgix URLs for your images. Imgix is a service that lets you process, manipulate and optimise images on the fly and then serve the images via a fast CDN.
-
 - [Pipit Cloudinary](https://grabapipit.com/news/pipit-cloudinary/)  
 A template filter that enables you to easily upload images to Cloudinary and use their CDN and image processing functionality.
 
