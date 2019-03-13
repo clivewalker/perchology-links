@@ -206,6 +206,8 @@ Creates a configurable editable data table within the Perch admin and outputs an
 
 ### Editors
 
+- [Cognetif AceSvg Editor](https://github.com/cognetif/perch_acesvg)  
+An SVG specific editor based on the ACE code editor plug-in from Perch 2 and retro-fitted to work on Runway (only tested on Runway). Adds a code editor with SVG syntax highlighting and an image live preview of the SVG content.
 - [Redactor: Inline Perch Assets](https://grabapipit.com/pipits/other/redactor-inline-perch-assets)  
 Enables users to upload/select assets from the Perch Assets system. Images are displayed inline in the text box of the Redactor Editor.
 
