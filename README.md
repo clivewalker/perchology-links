@@ -222,7 +222,9 @@ Enables users to upload/select assets from the Perch Assets system. Images are d
 - [Auto Collapsible Dividers](https://github.com/rlb222/Perch-Auto-collapsable-Dividers)  
 Normally field dividers in Perch templates are open and this script makes it possible to collapse them intially.
 - [Perch Forms response view button](https://github.com/Pipits/perch-forms-response-view-button)  
-A Perch UI plugin that adds a "View Response" button for each response on the Perch Forms "Listing Responses" page.
+A Perch UI plugin that adds a "View Response" button for each response on the Perch Forms "Listing Responses" page.  
+- [UI Loader](https://grabapipit.com/pipits/apps/ui-loader)  
+The UI loader app enables you to load admin UI assets (CSS, Javascript and favicon). The app comes with zero UI assets. It just loads them for you.
 ---
 ## Template Filters
 
