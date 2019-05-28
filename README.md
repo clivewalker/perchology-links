@@ -230,6 +230,8 @@ The UI loader app enables you to load admin UI assets (CSS, Javascript and favic
 
 ### Images
 
+- [Image Orientation Detection](https://gist.github.com/clivewalker/545337ec948c6edd00ec1ea2d7cca15e)  
+A Perch template filter to detect whether an image is portrait or landscape orientation.
 - [Pipit Imgix](https://grabapipit.com/news/imgix-template-filter)  
 Pipit Imgix is a Perch template filter that generates Imgix URLs for your images. Imgix is a service that lets you process, manipulate and optimise images on the fly and then serve the images via a fast CDN.
 - [Pipit Cloudinary](https://grabapipit.com/news/pipit-cloudinary/)  
