@@ -249,6 +249,8 @@ Add `target` and `rel` attributes to external links inside `textarea` field type
 Inserts HTML line breaks `<br>` before new lines in a textarea field.
 - [Reading Length](https://gist.github.com/ryangittings/4308d3bbde62537186adda25300106c4)  
 Get a Perch item's reading length in minutes.
+- [Telephone Numbers](https://grabapipit.com/news/a-template-filter-for-phone-numbers)  
+A template filter for formatting phone numbers.
 
 ---
 
