@@ -12,6 +12,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 
 - Add-ons
 	- [Analytics](#analytics)
+	- [API Emails](api-emails)
 	- [Email Lists](#email-lists)
 	- [Forms](#forms)
 	- [Forum](#forum)
@@ -57,6 +58,11 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 
 - [Go Squared Analytics](https://github.com/montlewis/PerchCMS-GoSquared)  
 Add GoSquared Analytics to Perch CMS admin.
+
+### API Emails
+
+- [Cognetif ApiMail](https://github.com/cognetif/cognetif_apimail)  
+ApiMail allows you to configure Perch to send email via web based API's such as SendGrid rather than SMTP or sendmail.
 
 ### Email Lists
 
