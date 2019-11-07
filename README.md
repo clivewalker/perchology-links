@@ -12,7 +12,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 
 - Add-ons
 	- [Analytics](#analytics)
-	- [API Emails](api-emails)
+	- [API Emails](#api-emails)
 	- [Email Lists](#email-lists)
 	- [Forms](#forms)
 	- [Forum](#forum)
