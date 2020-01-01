@@ -71,6 +71,9 @@ ApiMail allows you to configure Perch to send email via web based API's such as 
 
 ### Forms
 
+- [Form Builder](https://www.sly-design.co.uk/perch-cms/)  
+An app to build forms and configure their fields via Perch admin.
+
 - [MBK Forms](https://github.com/ryangittings/mbk-forms)  
 Perch Forms Recaptcha uses Google Recaptcha v3 with Perch forms.
 
