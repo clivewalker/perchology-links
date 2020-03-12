@@ -192,6 +192,8 @@ Implements the Spectrum color picker.
 
 - [Timestamp](https://github.com/montlewis/perch-cms-fieldtype-timestamp)  
 A simple timestamp field type.
+- [Calendar](https://gist.github.com/byron-roots/7ec3f25657fc6777cdcf76667e401dfd)  
+A field type for allowing users to select dates using a calendar.
 
 ### Inputs
 
