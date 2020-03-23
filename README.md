@@ -187,6 +187,8 @@ Select a Collection key via the control panel (e.g. in an editable region). Usef
 
 - [Kirk Spectrum Color Picker](https://github.com/ketterus/kirk_spectrum)  
 Implements the Spectrum color picker.
+- [Color Swatches](https://bitbucket.org/tamburlane/perch-fieldtype-swatches)  
+A Perch field type to display a selection of color swatches for the editor to choose from.
 
 ### Date and Time
 
@@ -194,6 +196,8 @@ Implements the Spectrum color picker.
 A simple timestamp field type.
 - [Calendar](https://gist.github.com/byron-roots/7ec3f25657fc6777cdcf76667e401dfd)  
 A field type for allowing users to select dates using a calendar.
+- [Calendar](https://bitbucket.org/tamburlane/perch-fieldtype-calendar/)  
+An extended version (fork) of the previous calendar field type. Allowing editors to select dates using Flatpickr.js calendar
 
 ### Inputs
 
