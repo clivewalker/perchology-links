@@ -197,7 +197,7 @@ A simple timestamp field type.
 - [Calendar](https://gist.github.com/byron-roots/7ec3f25657fc6777cdcf76667e401dfd)  
 A field type for allowing users to select dates using a calendar.
 - [Calendar](https://bitbucket.org/tamburlane/perch-fieldtype-calendar/)  
-An extended version (fork) of the previous calendar field type. Allowing editors to select dates using Flatpickr.js calendar
+An extended version (fork) of the previous calendar field type. Allowing editors to select dates using Flatpickr.js calendar.
 
 ### Inputs
 
@@ -273,6 +273,8 @@ A template filter for formatting phone numbers.
 
 ### Admin
 
+- [Perch Admin Menu Icons](https://gitlab.com/digitalwhale/perch-cms-icons)  
+A very simple way to add icons to your Perch admin sidebar menu.
 - [Perch Admin Style](https://github.com/JayGeorge/jaygeorge_perch_admin_style)  
 This app allows you to style the admin interface for different clients with some base styling defaults.
 - [Perch Admin Theme](https://github.com/ex-jedi/perch-admin-theme)  
@@ -281,3 +283,5 @@ Adds a little more contrast and visual hierarchy to the Perch UI.
 A blue admin theme.
 - [Perch UI Theme](https://github.com/seoMattH/perch-ui)  
 A dark "carbon" theme for Perch admin.
+- [Skill UI](https://bitbucket.org/tamburlane/perch-skill-ui/src/master/)  
+An airy modern style that looks nice with blocks. It will also convert all radiobuttons to toggle switches.
