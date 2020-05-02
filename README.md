@@ -13,6 +13,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 - Add-ons
 	- [Analytics](#analytics)
 	- [API Emails](#api-emails)
+	- [Collections](#collections)
 	- [Email Lists](#email-lists)
 	- [Forms](#forms)
 	- [Forum](#forum)
@@ -63,6 +64,11 @@ Add GoSquared Analytics to Perch CMS admin.
 
 - [Cognetif ApiMail](https://github.com/cognetif/cognetif_apimail)  
 ApiMail allows you to configure Perch to send email via web based API's such as SendGrid rather than SMTP or sendmail.
+
+### Collections
+
+- [RG Sheets](https://github.com/ryangittings/rg-sheets)  
+This app will allow you to import data from a Google sheet, into a specified Perch collection. And to schedule that import.
 
 ### Email Lists
 
@@ -201,12 +207,18 @@ An extended version (fork) of the previous calendar field type. Allowing editors
 
 ### Inputs
 
+- [Input Mask](https://gitlab.com/cognetif-os/perch-dev/cognetif_inputmasktext)  
+Apply an input mask to a Perch CMS text entry.
 - [Range Slider](https://github.com/AWildDevAppears/perch-cms-addon-range-slider)
 
 ### Lists
 
 - [Collection List](https://github.com/siansell/perch-fieldtype-collectionlist)  
-A fieldtype for Perch Runway to select an item from a collection.
+A field type for Perch Runway to select an item from a collection.
+- [Blog Posts](https://gitlab.com/cognetif-os/perch-dev/cognetif_blogpostselect/)  
+A field type to select a blog post from the Perch Blog add-on and return a property.
+- [Pages](https://gitlab.com/cognetif-os/perch-dev/cognetif_pageselect)  
+A field type to select a page from the page list and return a property.
 - [Product List](https://grabapipit.com/pipits/field-types/product-list)  
 A field type for selecting products from the official Perch Shop app.
 - [Superlist](https://github.com/tobyjug/perch-superlist)  
