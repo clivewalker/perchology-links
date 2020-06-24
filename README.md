@@ -2,7 +2,7 @@
 
 This is a list of [Perch CMS](https://grabaperch.com) add-ons by third party developers (the [official apps are here](https://addons.perchcms.com)).
 
-This list includes add-ons, field types, template filters, plugins etc. Most of these links are published in the [Perchology Newsletter](https://perchology.curated.co) first. You may want to [sign up](https://perchology.curated.co) :-)
+This list includes add-ons, field types, template filters, plugins etc. Most of these links are published in the [Perchology Newsletter](https://www.perchology.com) first. You may want to [sign up](https://www.perchology.com) :-)
 
 _Note_: Please check the capabilities and requirements for each app/add-on before using these on your Perch site.
 
