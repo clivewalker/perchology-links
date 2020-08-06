@@ -137,6 +137,8 @@ Quickly and easily add sharing links for popular social media sites.
 
 - [Pipit Catalog](https://grabapipit.com/pipits/apps/catalog)  
 Provides an alternative listing page for Shop Products with product thumbnails and easy filtering options. The listing also highlights sale and stock states.
+- [Root Perch Shop Omnipay Update](https://github.com/RootStudio/Root-Perch-Shop-Omnipay-v3)  
+This is an update to the gateways for Perch Shop to make use of the latest Stripe Omnipay gateway so that Stripe is able to use 3DS2.
 
 ### Shortcodes
 
