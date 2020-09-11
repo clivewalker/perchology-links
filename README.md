@@ -136,7 +136,7 @@ Quickly and easily add sharing links for popular social media sites.
 ### Shop
 
 - [Cognetif Ordervars](https://gitlab.com/cognetif-os/perch-dev/cognetif-ordervars)  
-Perch App to pass along variables to order from before checkout step in perch shop
+A Perch app to pass variables to an order from before the checkout step in Perch Shop.
 - [Pipit Catalog](https://grabapipit.com/pipits/apps/catalog)  
 Provides an alternative listing page for Shop Products with product thumbnails and easy filtering options. The listing also highlights sale and stock states.
 - [Root Perch Shop Omnipay Update](https://github.com/RootStudio/Root-Perch-Shop-Omnipay-v3)  
