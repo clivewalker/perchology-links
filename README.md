@@ -39,6 +39,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Collections](#collections)
 	- [Colors](#colors)
 	- [Date and Time](#date-and-time)
+	- [Images](#images-fieldtype)
 	- [Inputs](#inputs)
 	- [Lists](#lists)
 	- [Tables](#tables)
@@ -206,6 +207,11 @@ A simple timestamp field type.
 A field type for allowing users to select dates using a calendar.
 - [Calendar](https://bitbucket.org/tamburlane/perch-fieldtype-calendar/)  
 An extended version (fork) of the previous calendar field type. Allowing editors to select dates using Flatpickr.js calendar.
+
+### <a id="images-fieldtype"></a>Images
+
+- [Focalpoint](https://github.com/snavebelac/perch-fieldtype-focalpoint)  
+A custom field type allowing you to visually select a focal point on an existing Perch image.
 
 ### Inputs
 
