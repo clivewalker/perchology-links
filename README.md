@@ -114,8 +114,6 @@ An app to manage addresses and locations.
 
 ### Members
 
-- [Member Profiles](https://github.com/DexterHarrison/dh_member_profiles)  
-Display profiles of members.
 - [Member Tags](https://github.com/PepperJack/Perch-member-tags)  
 Allow an administrator to view and edit all the tags that are currently used by the Perch Members app.
 
