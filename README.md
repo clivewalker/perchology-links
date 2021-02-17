@@ -78,11 +78,17 @@ This app will allow you to import data from a Google sheet, into a specified Per
 
 ### Forms
 
+- [Clean Talk Anti-spam](https://github.com/ImpressionEngineering/Perch-CleanTalk-Anti-Spam)  
+This Perch add-on uses the CleanTalk API "check_message" method to help prevent spam on Perch Forms.
+
 - [Form Builder](https://www.sly-design.co.uk/perch-cms/)  
 An app to build forms and configure their fields via Perch admin.
 
 - [MBK Forms](https://github.com/ryangittings/mbk-forms)  
 Perch Forms Recaptcha uses Google Recaptcha v3 with Perch forms.
+
+- [Perch Response Prune](https://github.com/ImpressionEngineering/Perch-Response-Prune)  
+An addon that deletes form responses older than a specified age.
 
 ### Forum
 
