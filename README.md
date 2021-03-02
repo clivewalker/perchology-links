@@ -36,7 +36,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Shortcuts](#shortcuts)
 	- [SSL](#ssl)
 - Field Types
-	- [Collections](#collections)
+	- [Collections](#collectionsfieldtypes)
 	- [Colors](#colors)
 	- [Date and Time](#date-and-time)
 	- [Images](#images-fieldtype)
@@ -193,6 +193,7 @@ A simple widget that shows the time remaining on SSL/TLS certificates.
 
 ## Field Types
 
+<a name="collectionsfieldtypes"></a>
 ### Collections
 
 - [Collection](https://grabapipit.com/news/collection-field-type)  
