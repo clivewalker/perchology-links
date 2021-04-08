@@ -39,6 +39,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Collections](#collections-1)
 	- [Colors](#colors)
 	- [Date and Time](#date-and-time)
+	- [Duplication](#duplication)
 	- [Images](#images-fieldtype)
 	- [Inputs](#inputs)
 	- [Lists](#lists)
@@ -213,6 +214,13 @@ A simple timestamp field type.
 A field type for allowing users to select dates using a calendar.
 - [Calendar](https://bitbucket.org/tamburlane/perch-fieldtype-calendar/)  
 An extended version (fork) of the previous calendar field type. Allowing editors to select dates using Flatpickr.js calendar.
+
+### Duplication
+
+- [CloneItem](https://github.com/frwssr/frwssr_cloneitem)  
+A field type that will clone/copy an item in a multi-item region.
+- [ClonePage](https://github.com/frwssr/frwssr_clonepage)  
+A field type that will clone/copy a page and its contents.
 
 ### <a id="images-fieldtype"></a>Images
 
