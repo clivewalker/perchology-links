@@ -43,6 +43,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Images](#images-fieldtype)
 	- [Inputs](#inputs)
 	- [Lists](#lists)
+	- [Strings](#strings)
 	- [Tables](#tables)
 	- [Tags](#tags)
 - Plugins
@@ -245,6 +246,11 @@ A field type to select a page from the page list and return a property.
 A field type for selecting products from the official Perch Shop app.
 - [Superlist](https://github.com/tobyjug/perch-superlist)  
 Adds a field type to Perch CMS that makes it easy to edit and output unordered/ordered lists. 
+
+### Strings
+
+- [RandomString](https://github.com/frwssr/frwssr_randomstring)  
+A field type to generate a (pseudo-)random string. Use this as a supplement to/replacement for the Perch-native slug field type, if you need a randomly generated slug, for instance.
 
 ### Tags
 
