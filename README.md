@@ -51,6 +51,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [UI Scripts](#ui-scripts)
 - Template Filters
 	- [Images](#images)
+	- [Navigation Menu](#navigation-menu)
 	- [Text](#text)
 - Themes
 	- [Admin](#admin)
@@ -291,6 +292,11 @@ A Perch template filter to detect whether an image is portrait or landscape orie
 Pipit Imgix is a Perch template filter that generates Imgix URLs for your images. Imgix is a service that lets you process, manipulate and optimise images on the fly and then serve the images via a fast CDN.
 - [Pipit Cloudinary](https://grabapipit.com/news/pipit-cloudinary/)  
 A template filter that enables you to easily upload images to Cloudinary and use their CDN and image processing functionality.
+
+### Navigation Menu
+
+- [Alternate Menu Name in Navigation](https://github.com/rlb222/Perch-Alternate-MenuName-in-Navigation)  
+A filter to enable two menu item names (e.g long and short name) in navigation. Use this if you want your Perch website to show a different menu item name in different situations, e.g a shorter name on smaller screens.
 
 ### Text
 
