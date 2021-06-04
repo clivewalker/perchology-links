@@ -233,7 +233,10 @@ A custom field type allowing you to visually select a focal point on an existing
 
 - [Input Mask](https://gitlab.com/cognetif-os/perch-dev/cognetif_inputmasktext)  
 Apply an input mask to a Perch CMS text entry.
-- [Range Slider](https://github.com/AWildDevAppears/perch-cms-addon-range-slider)
+- [Range Slider](https://github.com/AWildDevAppears/perch-cms-addon-range-slider)  
+A basic range slider.
+- [Range Slider](https://github.com/frwssr/frwssr_rangeslider)  
+An Ion.RangeSlider-powered range slider.
 
 ### Lists
 
