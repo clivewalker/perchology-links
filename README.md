@@ -33,6 +33,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 - Dashboard Widgets
 	- [Backup](#backup)
 	- [Links](#links)
+	- [Pages and Regions](#pages-and-regions)
 	- [Shortcuts](#shortcuts)
 	- [SSL](#ssl)
 - Field Types
@@ -182,6 +183,11 @@ A dashboard widget that shows the status of latest backups.
 
 - [Perch Dashboard Links](https://github.com/clivewalker/Perch-Dashboard-Links-Widget)  
 Displays a list of links. Links are added by a user in the Perch Settings page.
+
+### Pages and Regions
+
+- [Edit Pages from Dashboard](https://github.com/rlb222/Perch-Edit-Pages-from-Dashboard)  
+Displays a list of all region items from all pages on the dashboard. Click each Page or Region item to go to its edit-page.
 
 ### Shortcuts
 
