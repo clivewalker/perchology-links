@@ -62,8 +62,10 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 
 ### Analytics
 
+- [Fathom Analytics](https://github.com/frwssr/frwssr_fathomviewer)  
+Display a Fathom Analytics shared dashboard in Perch admin.
 - [Go Squared Analytics](https://github.com/montlewis/PerchCMS-GoSquared)  
-Add GoSquared Analytics to Perch CMS admin.
+Add GoSquared Analytics to Perch admin.
 
 ### API Emails
 
