@@ -28,7 +28,7 @@ _Another Note_: I'll be pruning this list if I think something is too old to be 
 	- [Shop](#shop)
 	- [Shortcodes](#shortcodes)
 	- [Site Search](#site-search)
-	- [Translation](#translation)
+	- [Translations](#translations)
 	- [Users](#users)
 - Dashboard Widgets
 	- [Backup](#backup)
@@ -163,10 +163,12 @@ A simple Perch admin app to build support for shortcodes.
 - [Perch Algolia Sync](https://github.com/JayGeorge/jaygeorge_perch_algolia_sync)  
 Uses the Algolia API to communicate with your Algolia account and update site search results.
 
-### Translation
+### Translations
 
 - [Translation Helper](https://github.com/ameego/rp_translationhelper)  
 An add-on for Perch to help with translating content in templates.
+- [User Interface Translations for Perch 2](https://github.com/PerchCMS/Perch2-UI-Translations)  
+User-submitted language files for Perch admin.
 
 ### Users
 
