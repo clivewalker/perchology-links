@@ -1,12 +1,10 @@
 # Perchology Links
 
-This is a list of [Perch CMS](https://grabaperch.com) add-ons by third party developers (the [official apps are here](https://addons.perchcms.com)).
+This is a list of [Perch CMS](https://grabaperch.com) add-ons by third party developers (the [official apps are here](https://addons.perchcms.com)). This list contains add-ons developed for Perch 3 and not for [Perch Runway 4](https://perchrunway.com) (which is the current version of Perch).
 
 This list includes add-ons, field types, template filters, plugins etc. Many of these links were orginally published in the [Perchology Newsletter](https://www.perchology.com).
 
 _Note_: Please check the capabilities and requirements for each app/add-on before using these on your Perch site.
-
-_Another Note_: I'll be pruning this list if I think something is too old to be useful.
 
 ## Index
 
